@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2023/08/20 16:47:05.000.363,=C:\Users\MASTER\OneDrive\Documentos\Projetos\Embarcadero Delphi\Unit1.pas</Transaction>
+    <Transaction>2023/08/20 16:55:03.000.526,C:\Users\MASTER\OneDrive\Documentos\Projetos\Embarcadero Delphi\Unit1.dfm=C:\Users\MASTER\OneDrive\Documentos\Projetos\Embarcadero Delphi\Curso DevMedia\App_Indice\untFrmPrincipal.dfm</Transaction>
+    <Transaction>2023/08/20 16:55:03.000.526,C:\Users\MASTER\OneDrive\Documentos\Projetos\Embarcadero Delphi\Unit1.pas=C:\Users\MASTER\OneDrive\Documentos\Projetos\Embarcadero Delphi\Curso DevMedia\App_Indice\untFrmPrincipal.pas</Transaction>
+    <Transaction>2023/08/20 16:56:09.000.989,C:\Users\MASTER\OneDrive\Documentos\Projetos\Embarcadero Delphi\Project1.dproj=C:\Users\MASTER\OneDrive\Documentos\Projetos\Embarcadero Delphi\Curso DevMedia\App_Indice\App_Indice.dproj</Transaction>
+    <Transaction>2023/08/20 18:04:42.000.043,=C:\Users\MASTER\OneDrive\Documentos\Projetos\Embarcadero Delphi\Curso DevMedia\App_Indice\Unit1.pas</Transaction>
+    <Transaction>2023/08/20 18:06:11.000.604,C:\Users\MASTER\OneDrive\Documentos\Projetos\Embarcadero Delphi\Curso DevMedia\App_Indice\untFrmRequisitos.pas=C:\Users\MASTER\OneDrive\Documentos\Projetos\Embarcadero Delphi\Curso DevMedia\App_Indice\Unit1.pas</Transaction>
+    <Transaction>2023/08/20 18:06:11.000.604,C:\Users\MASTER\OneDrive\Documentos\Projetos\Embarcadero Delphi\Curso DevMedia\App_Indice\untFrmRequisitos.dfm=C:\Users\MASTER\OneDrive\Documentos\Projetos\Embarcadero Delphi\Curso DevMedia\App_Indice\Unit1.dfm</Transaction>
+    <Transaction>2023/08/21 20:22:52.000.621,=C:\Users\MASTER\OneDrive\Documentos\Projetos\Embarcadero Delphi\Curso DevMedia\App_Indice\Unit1.pas</Transaction>
+    <Transaction>2023/08/21 20:23:32.000.858,C:\Users\MASTER\OneDrive\Documentos\Projetos\Embarcadero Delphi\Curso DevMedia\App_Indice\Unit1.dfm=C:\Users\MASTER\OneDrive\Documentos\Projetos\Embarcadero Delphi\Curso DevMedia\App_Indice\untFrmResultado.dfm</Transaction>
+    <Transaction>2023/08/21 20:23:32.000.858,C:\Users\MASTER\OneDrive\Documentos\Projetos\Embarcadero Delphi\Curso DevMedia\App_Indice\Unit1.pas=C:\Users\MASTER\OneDrive\Documentos\Projetos\Embarcadero Delphi\Curso DevMedia\App_Indice\untFrmResultado.pas</Transaction>
+    <Transaction>2023/08/21 21:31:49.000.523,=C:\Users\MASTER\OneDrive\Documentos\Projetos\Embarcadero Delphi\Curso DevMedia\App_Indice\Unit1.pas</Transaction>
+    <Transaction>2023/08/21 21:33:29.000.090,C:\Users\MASTER\OneDrive\Documentos\Projetos\Embarcadero Delphi\Curso DevMedia\App_Indice\Unit1.pas=C:\Users\MASTER\OneDrive\Documentos\Projetos\Embarcadero Delphi\Curso DevMedia\App_Indice\untDadosPessoa.pas</Transaction>
+  </Transactions>
+</BorlandProject>

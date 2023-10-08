@@ -1,0 +1,18 @@
+unit untDadosPessoa;
+
+interface
+
+  Type
+    recDados_Pessoa = record
+      Altura: Double;
+      Peso: Double;
+      Sexo: String;
+      IMC: String;
+  end;
+
+  var
+    pub_Dados_Pessoa : recDados_pessoa;
+
+implementation
+
+end.

@@ -1,0 +1,123 @@
+object frmPrincipal: TfrmPrincipal
+  Left = 0
+  Top = 0
+  Caption = 'Calculo de '#205'ndice Corporal'
+  ClientHeight = 272
+  ClientWidth = 502
+  Color = clBtnFace
+  Font.Charset = ANSI_CHARSET
+  Font.Color = clWindowText
+  Font.Height = -21
+  Font.Name = 'Tahoma'
+  Font.Style = []
+  TextHeight = 25
+  object Label1: TLabel
+    Left = 56
+    Top = 64
+    Width = 105
+    Height = 25
+    Caption = 'Sua Altura:'
+  end
+  object Label2: TLabel
+    Left = 69
+    Top = 104
+    Width = 92
+    Height = 25
+    Caption = 'Seu Peso:'
+  end
+  object Label3: TLabel
+    Left = 68
+    Top = 144
+    Width = 93
+    Height = 25
+    Caption = 'Seu Sexo:'
+  end
+  object btnResultado: TButton
+    Left = 104
+    Top = 200
+    Width = 75
+    Height = 25
+    Caption = 'Resultado'
+    Font.Charset = ANSI_CHARSET
+    Font.Color = clWindowText
+    Font.Height = -12
+    Font.Name = 'Tahoma'
+    Font.Style = []
+    ParentFont = False
+    TabOrder = 0
+  end
+  object btnRequisitos: TButton
+    Left = 278
+    Top = 200
+    Width = 83
+    Height = 25
+    Caption = 'Ver Requisitos'
+    Font.Charset = ANSI_CHARSET
+    Font.Color = clWindowText
+    Font.Height = -12
+    Font.Name = 'Tahoma'
+    Font.Style = []
+    ParentFont = False
+    TabOrder = 1
+  end
+  object Panel1: TPanel
+    Left = 0
+    Top = 0
+    Width = 502
+    Height = 41
+    Align = alTop
+    Caption = 'Calculadora '#205'ndice de Massa Corporal'
+    Font.Charset = ANSI_CHARSET
+    Font.Color = clWindowText
+    Font.Height = -27
+    Font.Name = 'Tahoma'
+    Font.Style = []
+    ParentFont = False
+    TabOrder = 2
+  end
+  object edtAltura: TEdit
+    Left = 192
+    Top = 61
+    Width = 169
+    Height = 33
+    Font.Charset = ANSI_CHARSET
+    Font.Color = clWindowText
+    Font.Height = -21
+    Font.Name = 'Tahoma'
+    Font.Style = []
+    ParentFont = False
+    TabOrder = 3
+    TextHint = 'Digite Sua Altura'
+  end
+  object edtPeso: TEdit
+    Left = 192
+    Top = 100
+    Width = 169
+    Height = 33
+    Font.Charset = ANSI_CHARSET
+    Font.Color = clWindowText
+    Font.Height = -21
+    Font.Name = 'Tahoma'
+    Font.Style = []
+    ParentFont = False
+    TabOrder = 4
+    TextHint = 'Digite Seu Peso'
+  end
+  object cbxSexo: TComboBox
+    Left = 192
+    Top = 141
+    Width = 169
+    Height = 33
+    Font.Charset = ANSI_CHARSET
+    Font.Color = clWindowText
+    Font.Height = -21
+    Font.Name = 'Tahoma'
+    Font.Style = []
+    ParentFont = False
+    TabOrder = 5
+    TextHint = 'Escolha o Sexo'
+    Items.Strings = (
+      'F'
+      'M')
+  end
+end

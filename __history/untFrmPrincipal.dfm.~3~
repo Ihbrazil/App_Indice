@@ -1,0 +1,51 @@
+object frmPrincipal: TfrmPrincipal
+  Left = 0
+  Top = 0
+  Caption = 'Calculo de '#205'ndice Corporal'
+  ClientHeight = 272
+  ClientWidth = 502
+  Color = clBtnFace
+  Font.Charset = ANSI_CHARSET
+  Font.Color = clWindowText
+  Font.Height = -21
+  Font.Name = 'Tahoma'
+  Font.Style = []
+  TextHeight = 25
+  object Label1: TLabel
+    Left = 56
+    Top = 48
+    Width = 98
+    Height = 25
+    Caption = 'Sua Altura'
+  end
+  object Label2: TLabel
+    Left = 69
+    Top = 88
+    Width = 85
+    Height = 25
+    Caption = 'Seu Peso'
+  end
+  object Label3: TLabel
+    Left = 68
+    Top = 128
+    Width = 86
+    Height = 25
+    Caption = 'Seu Sexo'
+  end
+  object btnResultado: TButton
+    Left = 104
+    Top = 200
+    Width = 75
+    Height = 25
+    Caption = 'Resultado'
+    TabOrder = 0
+  end
+  object btnRequisitos: TButton
+    Left = 344
+    Top = 200
+    Width = 83
+    Height = 25
+    Caption = 'Ver Requisitos'
+    TabOrder = 1
+  end
+end

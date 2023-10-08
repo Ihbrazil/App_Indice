@@ -1,0 +1,123 @@
+object frmPrincipal: TfrmPrincipal
+  Left = 0
+  Top = 0
+  Caption = 'Calculo de '#205'ndice Corporal'
+  ClientHeight = 272
+  ClientWidth = 502
+  Color = clBtnFace
+  Font.Charset = ANSI_CHARSET
+  Font.Color = clWindowText
+  Font.Height = -21
+  Font.Name = 'Tahoma'
+  Font.Style = []
+  TextHeight = 25
+  object Label1: TLabel
+    Left = 56
+    Top = 64
+    Width = 98
+    Height = 25
+    Caption = 'Sua Altura'
+  end
+  object Label2: TLabel
+    Left = 69
+    Top = 104
+    Width = 85
+    Height = 25
+    Caption = 'Seu Peso'
+  end
+  object Label3: TLabel
+    Left = 68
+    Top = 144
+    Width = 86
+    Height = 25
+    Caption = 'Seu Sexo'
+  end
+  object btnResultado: TButton
+    Left = 104
+    Top = 200
+    Width = 75
+    Height = 25
+    Caption = 'Resultado'
+    Font.Charset = ANSI_CHARSET
+    Font.Color = clWindowText
+    Font.Height = -12
+    Font.Name = 'Tahoma'
+    Font.Style = []
+    ParentFont = False
+    TabOrder = 0
+  end
+  object btnRequisitos: TButton
+    Left = 344
+    Top = 200
+    Width = 83
+    Height = 25
+    Caption = 'Ver Requisitos'
+    Font.Charset = ANSI_CHARSET
+    Font.Color = clWindowText
+    Font.Height = -12
+    Font.Name = 'Tahoma'
+    Font.Style = []
+    ParentFont = False
+    TabOrder = 1
+  end
+  object Panel1: TPanel
+    Left = 0
+    Top = 0
+    Width = 502
+    Height = 41
+    Align = alTop
+    Caption = 'Calculadora '#205'ndice de Massa Corporal'
+    Font.Charset = ANSI_CHARSET
+    Font.Color = clWindowText
+    Font.Height = -27
+    Font.Name = 'Tahoma'
+    Font.Style = []
+    ParentFont = False
+    TabOrder = 2
+    ExplicitLeft = 232
+    ExplicitTop = 16
+    ExplicitWidth = 185
+  end
+  object Edit1: TEdit
+    Left = 192
+    Top = 61
+    Width = 121
+    Height = 22
+    Font.Charset = ANSI_CHARSET
+    Font.Color = clWindowText
+    Font.Height = -12
+    Font.Name = 'Tahoma'
+    Font.Style = []
+    ParentFont = False
+    TabOrder = 3
+    Text = 'Edit1'
+  end
+  object Edit2: TEdit
+    Left = 192
+    Top = 100
+    Width = 121
+    Height = 22
+    Font.Charset = ANSI_CHARSET
+    Font.Color = clWindowText
+    Font.Height = -12
+    Font.Name = 'Tahoma'
+    Font.Style = []
+    ParentFont = False
+    TabOrder = 4
+    Text = 'Edit2'
+  end
+  object Edit3: TEdit
+    Left = 216
+    Top = 168
+    Width = 121
+    Height = 22
+    Font.Charset = ANSI_CHARSET
+    Font.Color = clWindowText
+    Font.Height = -12
+    Font.Name = 'Tahoma'
+    Font.Style = []
+    ParentFont = False
+    TabOrder = 5
+    Text = 'Edit3'
+  end
+end

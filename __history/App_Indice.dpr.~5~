@@ -1,0 +1,18 @@
+program App_Indice;
+
+uses
+  Vcl.Forms,
+  untFrmPrincipal in 'untFrmPrincipal.pas' {frmPrincipal},
+  untFrmRequisitos in 'untFrmRequisitos.pas' {frmRequisitos},
+  untFrmResultado in 'untFrmResultado.pas' {Form1};
+
+{$R *.res}
+
+begin
+  Application.Initialize;
+  Application.MainFormOnTaskbar := True;
+  Application.CreateForm(TfrmPrincipal, frmPrincipal);
+  Application.CreateForm(TfrmRequisitos, frmRequisitos);
+  Application.CreateForm(TForm1, Form1);
+  Application.Run;
+end.

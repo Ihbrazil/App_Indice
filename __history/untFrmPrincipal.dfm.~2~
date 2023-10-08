@@ -1,0 +1,30 @@
+object frmPrincipal: TfrmPrincipal
+  Left = 0
+  Top = 0
+  Caption = 'Calculo de '#205'ndice Corporal'
+  ClientHeight = 272
+  ClientWidth = 502
+  Color = clBtnFace
+  Font.Charset = DEFAULT_CHARSET
+  Font.Color = clWindowText
+  Font.Height = -12
+  Font.Name = 'Segoe UI'
+  Font.Style = []
+  TextHeight = 15
+  object btnResultado: TButton
+    Left = 104
+    Top = 200
+    Width = 75
+    Height = 25
+    Caption = 'Resultado'
+    TabOrder = 0
+  end
+  object btnRequisitos: TButton
+    Left = 344
+    Top = 200
+    Width = 83
+    Height = 25
+    Caption = 'Ver Requisitos'
+    TabOrder = 1
+  end
+end
